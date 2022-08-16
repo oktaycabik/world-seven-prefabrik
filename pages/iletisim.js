@@ -50,7 +50,7 @@ const Kontakt = () => {
           <div className="row align-items-center">
             <div className="col-lg-4 col-md-12 mx-auto col-12 ">
               <h2>Bize Ulaşın</h2>
-              <div className="d-flex mt-4">
+              <div className="d-flex">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="32"
@@ -64,7 +64,7 @@ const Kontakt = () => {
                 <h5 className="ms-4">
                   {" "}
                   <a href="tel:+4923028894880" className="contact-info">
-                  +90 541 768 76 00
+                    +90 541 768 76 00
                   </a>
                 </h5>
               </div>
@@ -83,10 +83,8 @@ const Kontakt = () => {
                 <h5 className="ms-4">
                   {" "}
                   <div className="contact-info ">
-              
-Soğanlık Yeni Mah.
-Fuatpaşa sok. No: 12 kat:9 D:20
-Kartal / Istanbul
+                    Soğanlık Yeni Mah. Fuatpaşa sok. No: 12 kat:9 D:20 Kartal /
+                    Istanbul
                   </div>
                 </h5>
               </div>
@@ -140,7 +138,8 @@ Kartal / Istanbul
               </div>
               <div className="mt-4">
                 <div className="footer-head">
-                  Şirket Sahibi:<span className="footer-color">Abraham Wach </span>{" "}
+                  Şirket Sahibi:
+                  <span className="footer-color">Abraham Wach </span>{" "}
                 </div>
                 <div className="footer-head">
                   BANKA ADI:
@@ -177,7 +176,7 @@ Kartal / Istanbul
                   className="contact-form"
                 >
                   <label className="row">
-                   İsim Soyisim
+                    İsim Soyisim
                     <input
                       required
                       ref={name}
@@ -187,7 +186,7 @@ Kartal / Istanbul
                     />
                   </label>
                   <label className="row">
-                    Telefon 
+                    Telefon
                     <input type="tel" name="number" className="contact-input" />
                   </label>
                   <label className="row">

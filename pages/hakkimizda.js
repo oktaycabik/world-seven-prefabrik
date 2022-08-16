@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Head from "next/head";
+import Image from "next/image";
 const Überuns = () => {
   return (
     <>
@@ -10,7 +11,7 @@ const Überuns = () => {
       </Head>
       <div className="bg-about">
         <div className="container ">
-          <div className="row mt-10 mb-90 pb-30">
+          <div className="row  mb-90 pb-30">
             <div className="col-lg-9 ">
               <div className="ms-5 p-4 card mt-5">
                 <h4 className="mt-2">Hakkımızda</h4>
@@ -26,29 +27,32 @@ const Überuns = () => {
                   en büyük atılımlardan biri olarak, Almanya'da ve tüm Avrupa'da
                   standartları yeniden tanımlıyoruz.
                 </p>
-                <img src="/assets/img/FrontPage/SpecialMainpageUpdate.webp" />
+                <Image height={500} width={500} src="/assets/img/FrontPage/SpecialMainpageUpdate.webp" />
                 <div className="d-flex mt-2 justify-content-between">
                   <div className="col-4 gx-1">
                     {" "}
-                    <img
+                    <Image height={200}
+                    width={300}
                       className="w-100 "
-                      height="200px"
+                   
                       src="/assets/img/InnerPage/BurocontainerInnerPageUpdate.jpg"
                     />{" "}
                   </div>
                   <div className="col-4 gx-1">
                     {" "}
-                    <img
+                    <Image height={200}
+                    width={300}
                       className="w-100"
-                      height="200px"
+                   
                       src="/assets/img/InnerPage/XLInnerPageUpdate.webp"
                     />
                   </div>
                   <div className="col-4 gx-1">
                     {" "}
-                    <img
+                    <Image height={200}
+                    width={300}
                       className="w-100"
-                      height="200px"
+    
                       src="/assets/img/FrontPage/SanitaMainpageUpdate.webp"
                     />
                   </div>

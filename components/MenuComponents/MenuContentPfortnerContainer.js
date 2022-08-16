@@ -6,7 +6,7 @@ const MenuContentPfortnerContainer = ({ data }) => {
       <header>
         <div>
           <div className="container ">
-            <div className="row mt-10">
+            <div className="row">
               <div className="col-lg-12  ">
                 <div className="caption ml-0 mr-0 p-4  ">
                   <h1 className=" text-dark d-flex justify-content-center ">

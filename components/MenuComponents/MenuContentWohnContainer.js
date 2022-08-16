@@ -7,7 +7,7 @@ const MenuContentWohnContainer = ({data}) => {
   
           <div key={data.id}>
             <div className="container ">
-              <div className="row mt-10">
+              <div className="row ">
                 <div className="col-lg-12 ColorSelectorDiv ">
                   <div className="caption ml-0 mr-0 p-4 ColorSelectorDivCaption ">
                     <h1 className=" mt-3 mb-3  text-dark d-flex justify-content-center ">

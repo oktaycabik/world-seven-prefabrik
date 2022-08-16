@@ -7,7 +7,7 @@ const MenuContentXlWohnContainer = ({data}) => {
  
           <div >
             <div className="container ">
-              <div className="row mt-10">
+              <div className="row">
                 <div className="col-lg-12  ">
                   <div className=" ml-0 mr-0 p-4  ">
                     <h1 className="mt-3 mb-3 text-dark d-flex justify-content-center ">

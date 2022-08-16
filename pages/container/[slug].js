@@ -19,7 +19,7 @@ const Product = ({ product }) => {
       </Head>
       <div className="container-fluid  ProductPgBgColor p-0">
         <div className="container  p-0">
-          <div className="row mt-10">
+          <div className="row mt-5">
             <div className="col-lg-7 col-md-12 col-sm-12 ">
               <div>
                 <Swiper

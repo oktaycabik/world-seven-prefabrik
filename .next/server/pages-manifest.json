@@ -1,9 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/wc-ve-dus-kabin": "pages/wc-ve-dus-kabin.js",
-  "/menu/ofis-konteyner": "pages/menu/ofis-konteyner.js",
-  "/iletisim": "pages/iletisim.js",
-  "/": "pages/index.js"
+  "/_document": "pages/_document.js"
 }

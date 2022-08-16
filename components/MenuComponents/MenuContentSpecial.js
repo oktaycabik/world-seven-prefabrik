@@ -7,7 +7,7 @@ const MenuContentSpecial = ({data}) => {
       
           <div key={data.id}>
             <div className="container ">
-              <div className="row mt-10">
+              <div className="row ">
                 <div className="col-lg-12  ">
                   <div className=" ml-0 mr-0 p-4 ">
                     <h1

@@ -1217,7 +1217,7 @@ p {
 .contact {
   background-color: #54a4d9;
   color: white;
-  margin-top: 150px;
+  
 }
 .contact .contact-form {
   padding: 20px 50px 20px;
@@ -1340,6 +1340,7 @@ text-align: center;
   display: flex !important;
   justify-content: space-between !important;
   font-weight: 500;
+  background-color: transparent !important;
 }
 .navbar-catalog {
   padding-top: 5px;
@@ -1761,4 +1762,13 @@ color: #616160;
 }
 .card{
   border: none !important;
+}
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+   padding-top: 0 !important; 
+   padding-bottom: 0 !important; 
 }

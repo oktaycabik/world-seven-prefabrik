@@ -62,13 +62,13 @@ const Header = () => {
             </span>
             </div>
           </div>
-          <nav className="navbar navbar-expand-md navbar-light nav-bg">
+          <nav className="navbar navbar-expand-md nav-bg">
             <div className="container">
               <Link href="/">
                 <a className="navbar-brand " >
                   <img
-                    height={100}
-                    width={210}
+                    height={80}
+                    width={170}
                     src="/assets/img/world-seven.jpg"
                     alt=""
                   />

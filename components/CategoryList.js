@@ -3,7 +3,7 @@ import Link from "next/link";
 import categories from "../data/category.json";
 const CategoryList = () => {
   return (
-    <div className="container mt-160">
+    <div className="container mt-5">
       <div className="category-list">
         {categories.map((category) => (
           <Link key={category.id} href={`${category.slug}`}>
