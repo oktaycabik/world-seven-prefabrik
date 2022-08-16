@@ -3,11 +3,11 @@
        "id": 1,
        "title": { "second": "Konteyner" },
        "content": {
-         "first": "Almanya ve Avrupa'nın önde gelen Konteyner üreticisi",
+         "first": "Almanyadan sonra artık Türkiye için de üretiyoruz.",
          "Third": "Fabrikadan Üretim"
        },
-       "image": "/assets/img/InnerPage/containhaus.webp",
-       "mobileImage": "/assets/img/InnerPage/containhausmobıle.webp",
+       "image": "/assets/img/InnerPage/XLInnerPageUpdate.webp",
+       "mobileImage":"/assets/img/FrontPage/XlMobilMainpageUpdate.webp",
     
        "href":"/iletisim",
        "homeHref":"/kontakt",
@@ -75,7 +75,7 @@
      },
      "bungolov":{
        "id": 5,
-       "title": { "second": "Bungalov" },
+       "title": { "second": "Bungalow" },
        "content": {
          "first": "",
          "Third": ""

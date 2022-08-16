@@ -51,7 +51,7 @@ const ContainerInto = ({ data, className }) => {
         return data.MainpgClass;
       }
       if (router.asPath === "/markalarimiz") {
-        return data.MainpgClass;
+        return data.MainpgClassText;
       }
       if (router.asPath === "/burocontainer") {
         return "text-dark";
@@ -78,7 +78,7 @@ const ContainerInto = ({ data, className }) => {
         return "text-dark";
       }
       if (router.asPath === "/markalarimiz") {
-        return data.MainpgClass;
+        return data.MainpgClassText;
       }
       if (router.asPath === "/sanitar-container") {
         return "text-dark";
@@ -97,7 +97,7 @@ const ContainerInto = ({ data, className }) => {
         return "text-danger";
       }
       if (router.asPath === "/markalarimiz") {
-        return data.MainpgClass;
+        return data.MainpgClassText;
       }
       if (router.asPath === "/burocontainer") {
         return "text-danger";
@@ -119,7 +119,7 @@ const ContainerInto = ({ data, className }) => {
         return "text-danger";
       }
       if (router.asPath === "/markalarimiz") {
-        return data.MainpgClass;
+        return data.MainpgClassText;
       }
       if (router.asPath === "/burocontainer") {
         return "text-danger";

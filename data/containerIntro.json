@@ -10,10 +10,10 @@
     "mobileImage": "/assets/img/FrontPage/buromobile.webp",
     "image1": "/assets/img/InnerPage/BurocontainerInnerPageUpdate.jpg",
     "mobileImage1": "/assets/img/InnerPage/BurocontainerMobilInnerPageUpdate.webp",
-    "href":"/shop/burocontainer",
+    "href":"/menu/ofis-konteyner",
     "homeHref":"/ofis-konteyner",
     "homeButton":"BURADAN DEVAM ET",
-    "pageButton":"ŞİMDİ SATIN AL",
+    "pageButton":"DAHA FAZLA BİLGİ",
     "MainpgClass":"text-white"
   },
   "wohncontainers":{
@@ -27,10 +27,10 @@
     "image1": "/assets/img/InnerPage/XLInnerPageUpdate.webp",
     "mobileImage": "/assets/img/FrontPage/XlMobilMainpageUpdate.webp",
     "mobileImage1": "/assets/img/InnerPage/XLMobilInnerPageUpdate.webp",
-    "href":"/shop/wohncontainer",
+    "href":"/menu/yasam-konteyner",
     "homeHref":"/yasam-konteyner",
     "homeButton":"BURADAN DEVAM ET",
-    "pageButton":"ŞİMDİ SATIN AL",
+    "pageButton":"DAHA FAZLA BİLGİ",
     "MainpgClass":"text-dark"
   },
   "sanitacontainers":{
@@ -44,10 +44,10 @@
     "mobileImage": "/assets/img/FrontPage/SanitaMobilMainpageUpdate.webp",
     "mobileImage1": "/assets/img/InnerPage/SanitaInnerMobilPageUpdate.webp",
     "image1": "/assets/img/FrontPage/SanitaMainpageUpdate.webp",
-    "href":"/shop/sanitarcontainer",
+    "href":"/menu/wc-ve-dus-konteyner",
     "homeHref":"/wc-ve-dus-kabin",
     "homeButton":"BURADAN DEVAM ET",
-    "pageButton":"ŞİMDİ SATIN AL",
+    "pageButton":"DAHA FAZLA BİLGİ",
     "MainpgClass":"text-dark"
 
   },
@@ -62,10 +62,10 @@
     "mobileImage": "/assets/img/FrontPage/FlatpackMainPageMobil.webp",
     "mobileImage1": "/assets/img/InnerPage/FlatpackInnerMobilPageUpdate.webp",
     "image1": "/assets/img/InnerPage/FlatpackinnerPage.webp",
-    "href":"/shop/flatpack",
+    "href":"/menu/demonte-konteyner",
     "homeHref":"/flat-pack",
     "homeButton":"BURADAN DEVAM ET",
-    "pageButton":"ŞİMDİ SATIN AL",
+    "pageButton":"DAHA FAZLA BİLGİ",
     "MainpgClass":"text-dark"
   },
   "specialeditatons":{
@@ -82,7 +82,7 @@
     "href":"/shop/special",
     "homeHref":"/ozel-uretim-konteyner",
     "homeButton":"BURADAN DEVAM ET",
-    "pageButton":"ŞİMDİ SATIN AL",
+    "pageButton":"DAHA FAZLA BİLGİ",
     "MainpgClass":"text-dark"
   },
   "containHaus":{
@@ -93,15 +93,16 @@
       "Third": "Fabrikadan Üretim"
     },
     "logoSrc":"/assets/img/RedBlack.webp",
-    "image": "/assets/img/FrontPage/SpecialMainpageUpdate.webp",
-    "mobileImage": "/assets/img/FrontPage/SpecialMobilMainpageUpdate.webp",
-    "mobileImage1": "/assets/img/InnerPage/containhausmobıle.webp",
-    "image1": "/assets/img/InnerPage/containhaus.webp",
+    "image": "/assets/img/FrontPage/BuroMainpageUpdate.webp",
+    "mobileImage": "/assets/img/FrontPage/buromobile.webp",
+    "mobileImage1": "/assets/img/FrontPage/buromobile.webp",
+    "image1":"/assets/img/FrontPage/BuroMainpageUpdate.webp",
     "href":"/shop/special",
     "homeHref":"/ozel-uretim-konteyner",
     "homeButton":"BURADAN DEVAM ET",
     "pageButton":"ŞİMDİ SATIN AL",
-    "MainpgClass":"text-dark"
+    "MainpgClass":"text-dark",
+    "MainpgClassText":"text-light"
   },
   "wolfTiny":{
     "id": 1,
@@ -112,13 +113,14 @@
     },
     "logoSrc":"/assets/img/wolf-tiny.png",
     "image": "/assets/img/FrontPage/SpecialMainpageUpdate.webp",
-    "mobileImage": "/assets/img/FrontPage/SpecialMobilMainpageUpdate.webp",
+    "mobileImage": "/assets/img/InnerPage/BurocontainerMobilInnerPageUpdate.webp",
     "mobileImage1": "/assets/img/Tinyhouse/MyBigFamily.webp",
     "image1": "/assets/img/Tinyhouse/1.webp",
     "href":"/shop/special",
     "homeHref":"/ozel-uretim-konteyner",
     "homeButton":"BURADAN DEVAM ET",
     "pageButton":"ŞİMDİ SATIN AL",
-    "MainpgClass":"text-light"
+    "MainpgClass":"text-light",
+    "MainpgClassText":"text-light"
   }
 }

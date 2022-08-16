@@ -26,7 +26,7 @@ export default function Home() {
       <ProductIntro data={container}></ProductIntro>
       <ProductIntro data={tinyHouse}></ProductIntro>
       <ProductIntro data={modulerSquare}></ProductIntro>
-      <ProductIntro data={ironHouse}></ProductIntro>
+  
       <ProductIntro data={bungolov}></ProductIntro>
     </>
   );

@@ -139,7 +139,7 @@ const Kontakt = () => {
               <div className="mt-4">
                 <div className="footer-head">
                   Şirket Sahibi:
-                  <span className="footer-color">Abraham Wach </span>{" "}
+                  <span className="footer-color">İbrahim Tetik </span>{" "}
                 </div>
                 <div className="footer-head">
                   BANKA ADI:

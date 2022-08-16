@@ -21,7 +21,7 @@ const Footer = () => {
               </div>
               <div className="mb-2">
                 <div className="footer-head">
-                Şirket Sahibi:<span className="footer-color">Abraham Wach </span>{" "}
+                Şirket Sahibi:<span className="footer-color">İbrahim Tetik </span>{" "}
                 </div>
                 <div className="footer-head">
                   BANKA ADI:
