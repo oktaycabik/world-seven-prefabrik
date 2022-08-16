@@ -95,7 +95,7 @@ const Überuns = () => {
                 </div>
                 <div className="col-6 ps-3">
                   <h3>Ofis Konteyner</h3>
-                  <p className="fz-15">
+                  <p className="fz-15 ">
                   World Seven Prefabrik, konteyner sektörünün önde gelen
                   şirketlerinden biridir. Almanya ve Türkiye'de üretim yapan
                   firmamız aynı zamanda alanında ileri teknoloji kullanan lider
