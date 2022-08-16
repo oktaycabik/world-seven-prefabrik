@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "category": "Tüm Ürünler",
+        "slug": "alle"
+    },
+  
+  
+    {
+        "id": "2",
+        "category": "Kafe Konteyner",
+        "slug": "cafe-container"
+    },
+    {
+        "id": "3",
+        "category": "Kabin",
+        "slug": "sanitarcontainer"
+    },
+    {
+        "id": "4",
+        "category": "Ofis Konteyner",
+        "slug": "burocontainer"
+    },
+    {
+        "id": "5",
+        "category": "YaşamKonteyner",
+        "slug": "wohncontainer"
+    },
+ 
+   
+  
+    {
+        "id": "6",
+        "category": "Demonte",
+        "slug": "flatpack"
+    }
+]
+
+
+    

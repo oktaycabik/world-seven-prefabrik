@@ -1,0 +1,73 @@
+{
+  "burocontainer": { "id": 1,
+    "title": { 
+      "first": "Bürocontainer mieten und kaufen:",
+      "second":  "Anbieter vergleichen"
+  },
+    "content": {
+      "first": "Angebote aus Ihrer region",
+      "second": "Kostenlos und unverbindlich",
+      "third": "Geprüfte Anbieter"
+    },
+    "image": "/assets/img/slid/n/AlleModalBuro.webp",
+   
+    "href":"/shop/burocontainer"
+},
+ "wohncontainer":{
+    "id": 1,
+    "title": { 
+      "first": "XL Container mieten und kaufen:",
+      "second":  "Anbieter vergleichen"
+  },
+    "content": {
+      "first": "Angebote aus Ihrer region",
+      "second": "Kostenlos und unverbindlich",
+      "third": "Geprüfte Anbieter"
+    },
+    "image": "/assets/img/FrontPage/XLMainpageUpdate.webp",
+    "href":"/shop/wohncontainer"
+  },
+  "sanitacontainer": {
+    "id": 1,
+    "title": { 
+      "first": "Sanitärcontainer mieten und kaufen:",
+      "second":  "Anbieter vergleichen"
+  },
+    "content": {
+      "first": "Angebote aus Ihrer region",
+      "second": "Kostenlos und unverbindlich",
+      "third": "Geprüfte Anbieter"
+    },
+    "image": "/assets/img/FrontPage/SanitaMainpageUpdate.webp",
+    "href":"/shop/sanitarcontainer"
+  },
+ "flatpackcontainer" :{
+    "id": 1,
+    "title": { 
+      "first": "Flatpack mieten und kaufen:",
+      "second":  "Anbieter vergleichen"
+  },
+    "content": {
+      "first": "Angebote aus Ihrer region",
+      "second": "Kostenlos und unverbindlich",
+      "third": "Geprüfte Anbieter"
+    },
+    "image": "/assets/img/FlatPackMenu/FlatpackMain.webp",
+    "href":"/shop/flatpack"
+  },
+  "specialeditation":{
+    "id": 1,
+    "title": { 
+      "first": "Special Edition mieten und kaufen:",
+      "second":  "Anbieter vergleichen"
+  },
+    "content": {
+      "first": "Angebote aus Ihrer region",
+      "second": "Kostenlos und unverbindlich",
+      "third": "Geprüfte Anbieter"
+    },
+    "image": "/assets/img/FrontPage/SpecialMainpageUpdate.webp",
+   
+    "href":"/shop/special"
+  }
+  }
