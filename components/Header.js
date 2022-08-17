@@ -13,8 +13,8 @@ const Header = () => {
   return (
     <>
       <header role="banner ">
-        <div className="fixed-top">
-          <div className="navbar-catalog nav-bg">
+        <div className="fixed-top ">
+          <div className="navbar-catalog nav-bg header">
             <div className="navbar-info"> 
             <span className=" navbar-info-span">
               <svg
@@ -62,7 +62,7 @@ const Header = () => {
             </span>
             </div>
           </div>
-          <nav className="navbar navbar-expand-md nav-bg">
+          <nav className="navbar navbar-expand-md nav-bg nav-hei">
             <div className="container">
               <Link href="/">
                 <a className="navbar-brand " >
