@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/shop/[slug].js"
-    ],
-    "/tiny-house": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/tiny-house.js"
     ]
   },
   "ampFirstPages": []

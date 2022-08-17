@@ -14,7 +14,7 @@ const Product = ({ product }) => {
   return (
     <div>
       <Head>
-        <title>Contain Haus | {product?.title} </title>
+        <title>World Seven Prefabrik | {product?.title} </title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <div className="container-fluid  ProductPgBgColor p-0">
