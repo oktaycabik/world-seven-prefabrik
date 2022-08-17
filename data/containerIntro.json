@@ -4,7 +4,7 @@
     "title": { "second": "Ofis Konteyneri" },
     "content": {
       "first": "Nerede olursanız olun ofis konteyneriniz her zaman yanınızda!",
-      "Third": "Doğrudan fabrikadan"
+      "Third": "Fabrikadan Üretim"
     },
     "image": "/assets/img/FrontPage/BuroMainpageUpdate.webp",
     "mobileImage": "/assets/img/FrontPage/buromobile.webp",
@@ -20,8 +20,8 @@
     "id": 1,
     "title": { "second": "XL Yaşam Konteyner" },
     "content": {
-      "first": "XL 3x7 konteynerlerle daha fazla alan, daha fazla konfor, daha fazla özgürlük",
-      "Third": "Doğrudan fabrikadan"
+      "first": "",
+      "Third": "Fabrikadan Üretim"
     },
     "image": "/assets/img/FrontPage/XLMainpageUpdate.webp",
     "image1": "/assets/img/InnerPage/XLInnerPageUpdate.webp",
@@ -35,10 +35,10 @@
   },
   "sanitacontainers":{
     "id": 1,
-    "title": { "second": "Kabin" },
+    "title": { "second": "Wc - Duş Kabinleri" },
     "content": {
-      "first": "Containhaus kabinleri, gününüzün kurtarıcısı",
-      "Third": "Doğrudan fabrikadan"
+      "first": "",
+      "Third": "Fabrikadan Üretim"
     },
     "image": "/assets/img/FrontPage/SanitaMainpageUpdate.webp",
     "mobileImage": "/assets/img/FrontPage/SanitaMobilMainpageUpdate.webp",
@@ -56,7 +56,7 @@
     "title": { "second": "Demonte" },
     "content": {
       "first": "Düz Paket Kendiniz oluşturun! Kaydet ve eğlen",
-      "Third": "Doğrudan fabrikadan"
+      "Third": "Fabrikadan Üretim"
     },
     "image": "/assets/img/FrontPage/FlatpackMainPage.webp",
     "mobileImage": "/assets/img/FrontPage/FlatpackMainPageMobil.webp",
@@ -73,7 +73,7 @@
     "title": { "second": "Özel Ürünler" },
     "content": {
       "first": "Containhaus ile hayaller gerçek oluyor",
-      "Third": "Doğrudan fabrikadan"
+      "Third": "Fabrikadan Üretim"
     },
     "image": "/assets/img/FrontPage/SpecialMainpageUpdate.webp",
     "mobileImage": "/assets/img/FrontPage/SpecialMobilMainpageUpdate.webp",

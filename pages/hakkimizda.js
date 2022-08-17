@@ -243,6 +243,35 @@ const Überuns = () => {
                     </p>
                   </div>
                 </div>
+                <div className="row mt-4 about-border">
+                  <div className="col-lg-6 col-12">
+                    <h3>Okul Konteyneri</h3>
+                    <p className="fz-15">
+                      Öğrencilerin mutlu ve rahat bir şekilde ders
+                      işleyebilmeleri için dersliklerinin ferah, kaliteli ve
+                      güvenli bir yapıda olması gereklidir. Okulların yapımının
+                      yavaş olması, maliyetli olması ve yeterli alanların
+                      olmaması nedeniyle okullar için Contain Haus modüler küp
+                      sistemi harika bir çözüm sunar. Okul konteyneri
+                      maliyetleri bu sayede çok daha uygun fiyatlı olur. Üst
+                      üste konulabilen Contain Haus modüler küp sistemleri hem
+                      sağlamlık hem fiyat avantajı sunar. Okul konteynerleri bu
+                      sayede çok hızlı bir şekilde kurulumu gerçekleşir. Tamamen
+                      galvaniz çelikten üretilen okul konteynerleri çeşitli
+                      ebatlarda ve modeller ile kullanılabilir. Okul konteyneri
+                      kiralamak ya da okul konteyneri satın almak isterseniz
+                      müşteri temsilcilerimiz size en uygun seçenekleri
+                      sunacaktır.
+                    </p>
+                  </div>
+                  <div className="col-lg-6 col-12">
+                    <Image
+                      height={700}
+                      width={1100}
+                      src="/assets/img/SchuleContainerMenu/VermietungVonSchulcontainer.webp"
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
