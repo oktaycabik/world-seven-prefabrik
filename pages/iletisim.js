@@ -64,7 +64,7 @@ const Kontakt = () => {
                 <h5 className="ms-4">
                   {" "}
                   <a href="tel:+4923028894880" className="contact-info">
-                    +90 541 768 76 00
+                  0216 309 61 40
                   </a>
                 </h5>
               </div>

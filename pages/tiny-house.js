@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
     <Head>
-        <title>Contain Haus</title>
+        <title>World Seven Prefabrik | Tiny House</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <TinyHouse data={mybigfamily}/>

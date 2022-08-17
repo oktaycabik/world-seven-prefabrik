@@ -3,7 +3,7 @@ body {
   padding: 0 !important;
   margin: 0 !important;
   font-family: 'Montserrat', sans-serif !important;
-   padding-top: 17vh !important; 
+   padding-top: 110px !important; 
 }
 p{
   line-height: 27px;
@@ -143,9 +143,10 @@ margin-top: 150px !important;
   height: 16px;
   width: 100px;
 }
-.header{
-  height: 4vh !important;
-}
-.nav-hei{
-  height: 13vh !important;
+
+.about-border{
+ 
+  
+  padding-top: 15px;
+  padding-bottom: 15px;
 }

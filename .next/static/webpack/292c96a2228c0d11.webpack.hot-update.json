@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/shop/[slug]"],"m":["./components/CategoryList.js","./components/ProductList.js","./data/category.json","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2FUsers%2Fmybook%2FDesktop%2Fworldseven-app%2Fpages%2Fshop%2F%5Bslug%5D.js&page=%2Fshop%2F%5Bslug%5D!","./pages/shop/[slug].js"]}

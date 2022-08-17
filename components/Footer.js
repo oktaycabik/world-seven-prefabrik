@@ -164,7 +164,7 @@ const Footer = () => {
                 Istanbul
               </div>
               <div className="mt-3 footer-color">
-                <a href="tel:+4923028894880">+90 541 768 76 00</a>
+                <a href="tel:+4923028894880"> 0216 309 6140</a>
               </div>
               <div className="mt-3 footer-color">
                 <a href="mailto:info@containhaus.de">info@containhaus.de</a>

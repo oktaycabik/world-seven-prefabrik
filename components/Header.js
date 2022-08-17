@@ -14,7 +14,7 @@ const Header = () => {
     <>
       <header role="banner ">
         <div className="fixed-top ">
-          <div className="navbar-catalog nav-bg header">
+          <div className="navbar-catalog  header">
             <div className="navbar-info"> 
             <span className=" navbar-info-span">
               <svg
@@ -32,7 +32,7 @@ const Header = () => {
               </svg>
               
               <a href="tel:+4923028894880" className="">
-              +90 541 768 76 00
+               0216 309 61 40
                   </a>
               
             </span>
@@ -62,7 +62,7 @@ const Header = () => {
             </span>
             </div>
           </div>
-          <nav className="navbar navbar-expand-md nav-bg nav-hei">
+          <nav className="navbar navbar-expand-md navbar-light nav-bg nav-hei">
             <div className="container">
               <Link href="/">
                 <a className="navbar-brand " >
@@ -94,41 +94,41 @@ const Header = () => {
                 <ul className="navbar-nav ms-auto pl-lg-5 mx-2 pl-0 text-center">
                 <li className="nav-item">
                     <Link href="/shop/alle">
-                      <a className="nav-link" onClick={handleClick}>Ürünlerimiz</a>
+                      <a className="nav-link fw-600" onClick={handleClick}>Ürünlerimiz</a>
                     </Link>
                   </li>
                   <li className="nav-item">
                     <Link href="/markalarimiz">
-                      <a className="nav-link" onClick={handleClick}>Markalarımız</a>
+                      <a className="nav-link fw-600" onClick={handleClick}>Markalarımız</a>
                     </Link>
                   </li>
                   <li className="nav-item">
                     <Link href="/hakkimizda">
-                      <a className="nav-link" onClick={handleClick}>Hakkımızda</a>
+                      <a className="nav-link fw-600" onClick={handleClick}>Hakkımızda</a>
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link href="/ofis-konteyner">
-                      <a className="nav-link" aria-current="page" onClick={handleClick} >
+                    <Link href="/ofis-konteyner ">
+                      <a className="nav-link fw-600" aria-current="page" onClick={handleClick} >
                       Ofis Konteyneri
                       </a>
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link href="/yasam-konteyner">
-                      <a className="nav-link" onClick={handleClick} >
+                    <Link href="/yasam-konteyner ">
+                      <a className="nav-link fw-600" onClick={handleClick} >
                       XL Yaşam Konteyneri
                       </a>
                     </Link>
                   </li>
                   <li className="nav-item">
                     <Link href="/tiny-house">
-                      <a className="nav-link" onClick={handleClick}>Tiny House</a>
+                      <a className="nav-link fw-600" onClick={handleClick}>Tiny House</a>
                     </Link>
                   </li>
                   <li className="nav-item">
                     <Link href="/wc-ve-dus-kabin">
-                      <a className="nav-link" onClick={handleClick}>Panel Kabin</a>
+                      <a className="nav-link fw-600" onClick={handleClick}>Panel Kabin</a>
                     </Link>
                   </li>
                 
@@ -142,7 +142,7 @@ const Header = () => {
                 <ul className="navbar-nav ms-auto text-center">
                   <li className="nav-item cta-btn">
                     <a
-                      className="nav-link"
+                      className="nav-link fw-600"
                       type="button"
                       data-bs-toggle="offcanvas"
                       data-bs-target="#offcanvasRight"
@@ -153,7 +153,7 @@ const Header = () => {
                   </li>
                   <li className="nav-item cta-btn">
                     <Link href="/iletisim">
-                      <a onClick={handleClick} className="nav-link" href="">
+                      <a onClick={handleClick} className="nav-link fw-600" href="">
                         İletişim
                       </a>
                     </Link>
@@ -193,7 +193,7 @@ const Header = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/menu/xl-yasam-konteyner">
+              <a className="nav-link " href="/menu/xl-yasam-konteyner">
               XL Yaşam Konteyneri
               </a>
             </li>
@@ -234,7 +234,7 @@ const Header = () => {
             </li>
             <li className="nav-item">
               <a href="/shop/alle" className="nav-link">
-                Mağaza
+              Ürünlerimiz
               </a>
             </li>
           </ul>

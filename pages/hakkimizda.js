@@ -45,7 +45,7 @@ const Überuns = () => {
                   katlı veya çok katlı konteyner modelleri üretebiliyoruz. Daha
                   fazla bilgi için bizimle iletişime geçebilirsiniz.
                 </p>
-                <div className="row mt-4 ">
+                <div className="row mt-4 about-border">
                   <div className="col-lg-6 col-12">
                     <Image
                       height={700}
@@ -75,7 +75,7 @@ const Überuns = () => {
                     </p>
                   </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row mt-4 about-border">
                   <div className=" col-lg-6 col-12">
                     <h3>Yaşam Konteyner</h3>
                     <p className="fz-15">
@@ -102,7 +102,7 @@ const Überuns = () => {
                     />
                   </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row mt-4 about-border">
                   <div className="col-lg-6 col-12">
                     <Image
                       height={700}
@@ -130,7 +130,7 @@ const Überuns = () => {
                     </p>
                   </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row mt-4 about-border">
                   <div className="col-lg-6 col-12 ">
                     <h3>Demonte Konteyner</h3>
                     <p className="fz-15">
@@ -156,7 +156,7 @@ const Überuns = () => {
                     />
                   </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row mt-4 about-border">
                   <div className="col-lg-6 col-12">
                     <Image
                       height={700}
@@ -185,7 +185,7 @@ const Überuns = () => {
                     </p>
                   </div>
                 </div>
-                <div className="row mt-4">
+                <div className="row mt-4 about-border">
                   <div className="col-lg-6 col-12">
                     <h3>Güvenlik Kabini</h3>
                     <p className="fz-15">
