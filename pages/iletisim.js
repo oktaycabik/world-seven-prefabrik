@@ -144,27 +144,27 @@ const Kontakt = () => {
                 <div className="footer-head">
                   BANKA ADI:
                   <span className="footer-color">
-                    Volksbank Sprockhövel
+                  KUVEYT TÜRK KATILIM BANKASI A.Ş.
                   </span>{" "}
                 </div>
                 <div className="footer-head">
-                  SWIFT KODU:<span className="footer-color">GENODEM1SPO </span>
+                SWIFT/BIC KODU:<span className="footer-color">KTEFTRISXXX </span>
                 </div>
                 <div className="footer-head">
                   HESAP SAHİBİ:
                   <span className="footer-color">
-                    CONTAIN HAUS KONTEYNER
+                  WORLD SEVEN PREFABRIK YAPI SANAYI VE TICARET LIMITED SIRKETI
                   </span>{" "}
                 </div>
                 <div className="footer-head">
                   IBAN:
                   <span className="footer-color">
-                    DE4145 2615 4700 1398 6200
+                  TR73 0020 5000 0953 6589 9001 02
                   </span>{" "}
                 </div>
                 <div className="footer-head">
-                  Vergi Numarası :
-                  <span className="footer-color">348/5203/3253</span>{" "}
+                ÜLKE/ŞEHİR:
+                  <span className="footer-color">TÜRKİYE/İSTANBUL</span>{" "}
                 </div>
               </div>
             </div>

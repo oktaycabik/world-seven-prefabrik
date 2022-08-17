@@ -5,6 +5,9 @@ body {
   font-family: 'Montserrat', sans-serif !important;
    padding-top: 17vh !important; 
 }
+p{
+  line-height: 27px;
+}
 @media only screen and (max-width: 728px) {
   body {
 
