@@ -2,88 +2,22 @@
 <root>
   <row>
     <id>1</id>
-    <category>burocontainer</category>
-    <image>
-    https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FSPECIALGLASS%2Fmasarawi%2F1.webp&w=1920&q=75
-  
-    </image>
+   <link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FSPECIALGLASS%2Fmasarawi%2F1.webp&w=1920&q=75</link>
+    <image_link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FSPECIALGLASS%2Fmasarawi%2F1.webp&w=1920&q=75</image_link>
     <title>Black Panter</title>
-  <price
-    <description>
-
-    
-      3 x Oda, 1x Cam giriş kapısı, 1x Standart giriş kapısı,2x Pencere, 4 x Tavandan tabana pencereler, Standart pencere, 2 x Küçük pencere 
-    
-    </description>
- 
-   
+     <condition>true</condition>
+        <availability>true</availability>
+  <price> 29.000,00 </price>
+    <description> 3 x Oda, 1x Cam giriş kapısı, 1x Standart giriş kapısı,2x Pencere, 4 x Tavandan tabana pencereler, Standart pencere, 2 x Küçük pencere  </description>
   </row>
   <row>
     <id>2</id>
-    <category>burocontainer</category>
-    <image>
-      <ima1>/assets/img/ShopDeutsch/BLACKDIAMOND/1.webp</ima1>
-      <ima2>/assets/img/ShopDeutsch/BLACKDIAMOND/2.webp</ima2>
-      <ima3>/assets/img/ShopDeutsch/BLACKDIAMOND/3.webp</ima3>
-      <ima4>/assets/img/ShopDeutsch/BLACKDIAMOND/4.webp</ima4>
-      <ima5>/assets/img/ShopDeutsch/BLACKDIAMOND/5.webp</ima5>
-    </image>
+     <condition>true</condition>
+        <availability>true</availability>
+         <link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&w=1920&q=75 </link>
+    <image_link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&w=1920&q=75 </image_link>
     <title>Black Diamond</title>
-    <slug>black-diamond</slug>
-    <content>
-      <text1>YENİ</text1>
-      <text2>Ofis Konteyner</text2>
-      <text3>B:240 | L:500 12,00m²</text3>
-      <price>8.500,00 €</price>
-      <text6>1x Oda, 1x Giriş, 2x Pencere</text6>
-      <text7></text7>
-    </content>
-    <href>
-      <href1>/Kontakt</href1>
-      <href2>/Blackdiomand</href2>
-    </href>
-    <description>
-      <Seller>Direkt von Hersteller</Seller>
-      <deutsch>NEUWARE! Deutsche Markenqualität</deutsch>
-      <dimension>Maße:</dimension>
-      <width>Breite: 2.40m,</width>
-      <length>Länge: 5.00m,</length>
-      <height>Höhe: 2.50m</height>
-      <Area>Quadratmeter: 12,00m²</Area>
-      <Description>Beschreibung:</Description>
-      <Features>Ausstattung: 1x Grossraum, 1x Eingangstür, 2x Fenster</Features>
-      <Isolation>Isolation: 80 mm Decke, 50mm Wand</Isolation>
-      <strength>Vinyl Bodenbelag 2-3mm - robust. Cconmlvqgn</strength>
-      <CraneSlot>Kranösen sind Inkl. Zum Entladen mit Kran.</CraneSlot>
-      <TransportCost>Auf Wunsch bieten wir den Transport mit Entladung an. Der Aufpreis ist 300 €</TransportCost>
-      <customization>Individuelle Raumgestaltung ist möglich.</customization>
-      <ExtraAccesories>Zusätzlich können Sie folgendes dazu bestellen:</ExtraAccesories>
-      <Shutar>Rolladen (Inkl. Einabu) : 390 €</Shutar>
-      <heater>Durchlauferhitzer Dusche (inkl. Einbau &amp; Abdichtung): 400 € </heater>
-      <geaser>Wasserboiler Waschbecken (inkl. Einbau &amp; Abdichtung): 300 € </geaser>
-      <cables>Heizung Wand (inkl. Einbau, Kabel &amp; Kabelkanal mit Steckdose): 280 €</cables>
-      <fridge>Frostwächter: 75 €</fridge>
-      <Urinate>Urinal (inkl. Einbau &amp; Abdichtung): 400 €</Urinate>
-      <ColorSelection>Farbwunsch nur Rahmen Lackierung (inkl. Verarbeitung): 750 €</ColorSelection>
-      <PricePlusKDV>Die Preise verstehen sich netto zzgl. gesetzlicher MwSt.</PricePlusKDV>
-    </description>
-    <HappyCustomerBlackdiamond>
-      <ima1>/assets/img/HappyCustomer/Blackdiamond/aa.webp</ima1>
-      <ima2>/assets/img/HappyCustomer/Blackdiamond/bb.webp</ima2>
-      <ima3>/assets/img/HappyCustomer/Buro/Bendorf3.webp</ima3>
-      <ima4>/assets/img/HappyCustomer/Buro/Forst.webp</ima4>
-      <ima5>/assets/img/HappyCustomer/Pfortner/aa.webp</ima5>
-      <ima6>/assets/img/HappyCustomer/Pfortner/bb.webp</ima6>
-    </HappyCustomerBlackdiamond>
-    <LocationBlackdiamond>
-      <loc1>Bendorf</loc1>
-      <loc2>Forst</loc2>
-      <loc3>Wiesbaden</loc3>
-      <loc4>Weimar</loc4>
-      <loc5>Wiesbaden</loc5>
-      <loc6>Weimar</loc6>
-    </LocationBlackdiamond>
-  </row>
-  <row>
-   
+   <price>8.500,00</price>
+    <description> 1x Oda, 1x Giriş, 2x Pencere </description>
+  </row> 
 </root>
