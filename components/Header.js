@@ -50,7 +50,7 @@ const Header = () => {
               </svg>
               
               <a href="mailto:info@containhaus.de" className="contact-info">
-                    info@containhaus.de
+                    info@worldseven.eu
                   </a>
               
             </span>

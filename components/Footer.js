@@ -167,7 +167,7 @@ const Footer = () => {
                 <a href="tel:+4923028894880"> 0216 309 6140</a>
               </div>
               <div className="mt-3 footer-color">
-                <a href="mailto:info@containhaus.de">info@containhaus.de</a>
+                <a href="mailto:info@containhaus.de">info@worldseven.eu</a>
               </div>
             </div>
             <div className="col-lg-3 gx-5 col-md-6 col-sm-6 ">

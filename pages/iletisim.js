@@ -102,7 +102,7 @@ const Kontakt = () => {
                 <h5 className="ms-4">
                   {" "}
                   <a href="mailto:info@containhaus.de" className="contact-info">
-                    info@containhaus.de
+                  info@worldseven.eu
                   </a>
                 </h5>
               </div>

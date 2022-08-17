@@ -45,7 +45,7 @@ const ContactLayerMobile = () => {
             />
           </li>
           <li>
-            <a  href="mailto:info@containhaus.de" className="floatingbuttonnnnMobil">
+            <a  href="mailto:info@worldseven.eu" className="floatingbuttonnnnMobil">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="20"
