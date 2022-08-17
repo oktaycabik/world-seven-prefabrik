@@ -2,6 +2,8 @@
 <root>
   <row>
     <id>1</id>
+      <gtin>1234125647954</gtin>
+        <brand>Contain Haus</brand>
    <link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FSPECIALGLASS%2Fmasarawi%2F1.webp&w=1920&q=75</link>
     <image_link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FSPECIALGLASS%2Fmasarawi%2F1.webp&w=1920&q=75</image_link>
     <title>Black Panter</title>
@@ -12,10 +14,12 @@
   </row>
   <row>
     <id>2</id>
+      <gtin>4234928647954</gtin>
+        <brand>Contain Haus</brand>
      <condition>new</condition>
         <availability>in stock</availability>
-         <link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&w=1920&q=75 </link>
-    <image_link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&w=1920&q=75 </image_link>
+         <link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&amp;w=1920&q=75</link>
+    <image_link>https://www.containhaus.de/_next/image?url=%2Fassets%2Fimg%2FShopDeutsch%2FBLACKDIAMOND%2F1.webp&w=1920&q=75</image_link>
     <title>Black Diamond</title>
    <price>8.500,00</price>
     <description> 1x Oda, 1x Giriş, 2x Pencere </description>
