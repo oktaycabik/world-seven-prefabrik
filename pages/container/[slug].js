@@ -35,7 +35,7 @@ const Product = ({ product }) => {
                   className="mySwiper2"
                 >
                   <SwiperSlide>
-                    <Image
+                    <img
                       width={756}
                       height={534}
                       className="product-page-img"
