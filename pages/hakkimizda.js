@@ -158,7 +158,14 @@ const Überuns = () => {
                 </div>
                
                 <div className="row mt-4 about-border">
-                  <div className="col-lg-6 col-12">
+                <div className="col-lg-6 col-12">
+                    <Image
+                      height={700}
+                      width={1100}
+                      src="/assets/img/ShopDeutsch/PFCO/1.webp"
+                    />
+                  </div>
+                  <div className="col-lg-6 col-12 ps-3">
                     <h3>Güvenlik Kabini</h3>
                     <p className="fz-15">
                       Güvenlik Kabinileri tesis içinde çalışanlarınızın ideal
@@ -177,13 +184,7 @@ const Überuns = () => {
                       yerleştirilebilirler.
                     </p>
                   </div>
-                  <div className="col-lg-6 col-12">
-                    <Image
-                      height={700}
-                      width={1100}
-                      src="/assets/img/ShopDeutsch/PFCO/1.webp"
-                    />
-                  </div>
+             
                 </div>
                 <div className="row mt-4">
                   <div className="col-lg-6 col-12">

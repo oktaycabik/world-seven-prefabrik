@@ -30,15 +30,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/hakkimizda": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/hakkimizda.js"
+    ],
+    "/ofis-konteyner": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/ofis-konteyner.js"
+    ],
     "/tiny-house": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/tiny-house.js"
-    ],
-    "/yasam-konteyner": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/yasam-konteyner.js"
     ]
   },
   "ampFirstPages": []
