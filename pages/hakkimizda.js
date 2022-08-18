@@ -11,9 +11,9 @@ const Überuns = () => {
       </Head>
       <div className="bg-about">
         <div className="container ">
-          <div className="row  mb-90 pb-30">
+          <div className="row  ">
             <div className="col-lg-12 ">
-              <div className="ms-5 p-4 card mt-5">
+              <div className=" p-4 card mt-5">
                 <h4 className="mt-2">Hakkımızda</h4>
                 <h5 className="mt-4">
                   PREFABRİK YAPILARDA ALMANYA VE TÜRKİYE’NİN ÖNCÜ MARKASI WORLD

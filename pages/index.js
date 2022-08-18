@@ -13,7 +13,7 @@ export default function Home() {
   const {tinyHouse} =productInto
   const {modulerSquare} =productInto
 
-  const {ironHouse} =productInto
+
   const {bungolov} =productInto
  
   return (
@@ -25,9 +25,10 @@ export default function Home() {
 
       <ProductIntro data={container}></ProductIntro>
       <ProductIntro data={tinyHouse}></ProductIntro>
+      <ProductIntro data={bungolov}></ProductIntro>
       <ProductIntro data={modulerSquare}></ProductIntro>
   
-      <ProductIntro data={bungolov}></ProductIntro>
+      
     </>
   );
 }
