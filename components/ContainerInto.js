@@ -2,9 +2,10 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import windowSize from "../utils/windowSize";
 import Image from "next/image";
-
+import useMediaQuery from "../utils/useMediaQuery"
 const ContainerInto = ({ data, className }) => {
   const [width] = windowSize();
+  const isDesktop = useMediaQuery("(min-width: 768px)");
   const textColor = () => {
     if (width < 768) {
       if (router.asPath === "/burocontainer") {
@@ -140,12 +141,12 @@ const ContainerInto = ({ data, className }) => {
   const router = useRouter();
   const test = () => {
     if (router.asPath === "/") {
-      if (width < 768) {
+      if (isDesktop) {
         return data.mobileImage;
       }
       return data.image;
     } else {
-      if (width < 768) {
+      if (!isDesktop) {
         return data.mobileImage1;
       }
       return data.image1;
