@@ -187,13 +187,7 @@ const Überuns = () => {
              
                 </div>
                 <div className="row mt-4">
-                  <div className="col-lg-6 col-12">
-                    <Image
-                      height={700}
-                      width={1100}
-                      src="/assets/img/ShopDeutsch/CAFFE/3.webp"
-                    />
-                  </div>
+                
                   <div className="col-lg-6 col-12 ps-3">
                     <h3>Kafe Konteyner</h3>
                     <p className="fz-15 ">
@@ -215,9 +209,23 @@ const Überuns = () => {
                       tasarlanabilir.
                     </p>
                   </div>
+                  <div className="col-lg-6 col-12">
+                    <Image
+                      height={700}
+                      width={1100}
+                      src="/assets/img/ShopDeutsch/CAFFE/3.webp"
+                    />
+                  </div>
                 </div>
                 <div className="row mt-4 about-border">
-                  <div className="col-lg-6 col-12">
+                <div className="col-lg-6 col-12">
+                    <Image
+                      height={700}
+                      width={1100}
+                      src="/assets/img/SchuleContainerMenu/VermietungVonSchulcontainer.webp"
+                    />
+                  </div>
+                  <div className="col-lg-6 col-12 ps-3">
                     <h3>Okul Konteyneri</h3>
                     <p className="fz-15">
                       Öğrencilerin mutlu ve rahat bir şekilde ders
@@ -237,13 +245,7 @@ const Überuns = () => {
                       sunacaktır.
                     </p>
                   </div>
-                  <div className="col-lg-6 col-12">
-                    <Image
-                      height={700}
-                      width={1100}
-                      src="/assets/img/SchuleContainerMenu/VermietungVonSchulcontainer.webp"
-                    />
-                  </div>
+                
                 </div>
               </div>
             </div>

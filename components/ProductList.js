@@ -8,6 +8,7 @@ const ProductList = ({ product }) => {
       <div className="col-md-6 col-12 col-lg-3 mb-4 mb-lg-0 gx-3 mt-2 cursor ">
         <div className="card text-black shadow-product">
           <Image
+              objectFit="cover"
             width={306}
             height={229}
             src={product.image.ima1}

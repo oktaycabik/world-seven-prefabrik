@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import windowSize from "../utils/windowSize";
 import Image from "next/image";
-import useMediaQuery from "../utils/useMediaQuery"
+import useMediaQuery from "../utils/useMediaQuery";
 const ContainerInto = ({ data, className }) => {
   const [width] = windowSize();
   const isDesktop = useMediaQuery("(min-width: 768px)");
@@ -155,9 +155,14 @@ const ContainerInto = ({ data, className }) => {
   return (
     <>
       <div className="intro-img">
-        <Image layout="fill" src={test()} priority />
+        <Image
+          objectFit="cover"
+          objectPosition="center"
+          layout="fill"
+          src={test()}
+          priority
+        />
         <div className="intro-content">
-         
           <h1 className={`${textColor()} fw-600`}>{data.title.second}</h1>
           {router.asPath === "/markalarimiz" && (
             <Image width={100} height={70} src={data.logoSrc} priority />
